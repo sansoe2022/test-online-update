@@ -3,18 +3,18 @@
    "files": [  
 
 {
-         "name": "SG-Unlimited-FREE",
-         "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/SG-Default.ovpn"
+         "name": "SG-this is free1",
+         "url": "https://raw.githubusercontent.com/sansoe2022/test-online-update/main/free1.ovpn"
       },
 
 {
-         "name": "SG-Unlimited-FREE2",
-         "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/SG-Default2.ovpn"
+         "name": "SG-this is free2",
+         "url": "https://raw.githubusercontent.com/sansoe2022/test-online-update/main/free2.ovpn"
       },
 
 {
-         "name": "US-Unlimited-FREE",
-         "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/US-Default.ovpn"
+         "name": "US-this is us",
+         "url": "https://raw.githubusercontent.com/sansoe2022/test-online-update/main/us.ovpn"
       }
 
 
